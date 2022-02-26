@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A breif narration of the truth of some particulars in Mr. Thomas Edwards his book called Gangræna. Concerning one Nichols an Anabaptist, some opinions he maintained to Master Greenhill, and a discourse that passed between Master Greenhill and Master Burroughs upon occasion of those opinions. / By the author Thomas Alle.</title>
+            <author>Alle, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76055</idno>
+            <idno type="STC">Wing A953</idno>
+            <idno type="STC">Thomason E341_24</idno>
+            <idno type="STC">ESTC R200919</idno>
+            <idno type="EEBO-CITATION">99861535</idno>
+            <idno type="PROQUEST">99861535</idno>
+            <idno type="VID">113672</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76055)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113672)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E341[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A breif narration of the truth of some particulars in Mr. Thomas Edwards his book called Gangræna. Concerning one Nichols an Anabaptist, some opinions he maintained to Master Greenhill, and a discourse that passed between Master Greenhill and Master Burroughs upon occasion of those opinions. / By the author Thomas Alle.</title>
+                  <author>Alle, Thomas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. and E.M. for Ralph Smith, at the sign of the Bible in Cornhill neer the Royall Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edwards, Thomas, d. 1647. --  Gangræna --  Early works to 1800.</term>
+               <term>Anabaptists --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113672:1" rendition="simple:additions"/>
+            <p>A BREIF NARRATION OF The truth of ſome particulars in M<hi rend="sup">r</hi>. THOMAS EDWARDS his Book called GANGRAENA.</p>
+            <p>Concerning one NICHOLS an Anabaptiſt, ſome Opinions he maintained to Maſter <hi>Green<g ref="char:EOLhyphen"/>hill,</hi> and a Diſcourſe that paſſed between Maſter <hi>Greenhill</hi> and Maſter <hi>Burroughs</hi> upon oc<g ref="char:EOLhyphen"/>caſion of thoſe Opinions.</p>
+            <p>By the Author THOMAS ALLE.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. R.</hi> and <hi>E. M.</hi> for <hi>Ralph Smith,</hi> at the ſign of the Bible in Cornhill neer the Royall Exchange. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113672:2"/>
+            <pb n="3" facs="tcp:113672:2"/>
+            <head>A BREIF Narration of the truth of ſome particu<g ref="char:EOLhyphen"/>lars in Mr THOMAS EDWARDS his Book, called <hi>Gangraena,</hi> concerning one <hi>Nichols</hi> an Anabaptiſt.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Eeing the hand of providence, for ſo it is that hath ordered it, and doth order all things, for I had no thought nor knowledge of my being brought upon the Stage in Print, untill I ſaw my name in Maſter <hi>Edwards</hi> his Book called <hi>Gangrae<g ref="char:EOLhyphen"/>na;</hi> for what ends Maſter <hi>Edwards</hi> ſet my name there, or the Diſcourſe I ſpake of openly to many, I know not, but himſelf can beſt make it out; But my name being in his Book, hath cauſed many of my friends to look bigge upon me, and to harbour cauſeleſſe jealouſies againſt me, and many that formerly were ſeeming friends have given me very ſcurrilous ſpeeches and un<g ref="char:EOLhyphen"/>chriſtian like language, and would give me no reaſon of their ſo ſpeaking, but ſaid I was in Maſter <hi>Edwards</hi> his Book, and ſeeing there are ſome things that are there that never came from me: And ſo there are differences grown; therefore that there may be a cleer underſtanding of the truth, I ſhall impart what is and was my Re<g ref="char:EOLhyphen"/>lation, and leave the reſt.</p>
+            <p>The firſt particular wherein I am named in Maſter <hi>Edwards</hi> his Book, was about a Petition that was brought unto my hand for the furtherance and promoting of it; which I confeſſe I had the handling of, and carried it up to the Dr <hi>H.</hi> his houſe and it was read publikly, which was I conceive the beſt way, ſo that if any had ought againſt it they might underſtand of it; and it being diſliked and oppoſed by Maſter <hi>Burroughs</hi> and Maſter <hi>Greenhill,</hi> in the publike, I followed it no further; this Petition was for the ſetling of the Government of the Church, the want of which
+<pb n="4" facs="tcp:113672:3"/>maketh ſad the hearts of ſuch as are deare to God; if any ſay that the Government underſtood in that Petition was not right, I ſay to ſuch, as they tender the honour of God, as they are Chriſtians and ten<g ref="char:EOLhyphen"/>der the credit of the Goſpel of Jeſus Chriſt, let them bring in ano<g ref="char:EOLhyphen"/>ther that is more neer the Rule of the Word and wee ſhall gladly receive it; and let us make good uſe of the words of an enemy; Sir <hi>Jacob Aſhly</hi> when he was taken, ſaid, that he thought the work was done, except God give us over in his judgement to fall out amongſt our ſelves, and ſo deſtroy one another; We may ſee the eies of our enemies are upon our great diviſions, which grow for want of a Government, that may reſtraine the great wantonneſſe of ſpirit by the abuſe of liberty, which in <hi>New England</hi> brought forth monſtrous Errours. Therefore M. <hi>Sheapheards</hi> letter of <hi>New-England</hi> (ſent over here and in Print) called <hi>New-Englands</hi> lamen<g ref="char:EOLhyphen"/>tation for old-Englands preſent Errours and feared future deſolati<g ref="char:EOLhyphen"/>on if not timely prevented; Which were worthy of our Noble Senatours beſt and ſerious thoughts upon it; for experienced counſell is not to be ſlighted.</p>
+            <p n="2">2. Another thing in Maſter <hi>Edwards</hi> Book is about Miſtreſſe <hi>Chidly,</hi> who had ſome dicourſe with Maſter <hi>Greenhill,</hi> and hee uſed arguments unto her, which is true.</p>
+            <p n="3">3. Another thing mentioned in Maſter <hi>Edwards</hi> his Book, is about one <hi>Nichols</hi> an Anabaptiſt, that lived in <hi>Moore-Feilds,</hi> unto which Maſter <hi>John Goodwin</hi> in a Pamphlet hath made ſome over<g ref="char:EOLhyphen"/>ture, and that from a teſtimony from Maſter <hi>Burroughs</hi> his hand, who ſaid that I know no ſuch man as Mr. <hi>Nichols,</hi> nor of no meet<g ref="char:EOLhyphen"/>ing concluded of about him, or any of his opinions, either intend<g ref="char:EOLhyphen"/>ed, deſired or reſolved upon. Which teſtimony of Maſter <hi>Bur<g ref="char:EOLhyphen"/>roughs</hi> to Maſter <hi>Goodwin,</hi>
+               <note place="margin">Gangraena, pag. <hi>79.</hi>
+               </note> for ought I know is true in his ſence, <hi>viz.</hi> that he knowes no ſuch man as <hi>Nichols,</hi> or that he never heard that there was ſuch a man in the world, or that there was any meet<g ref="char:EOLhyphen"/>ing concluded of about him. But here is no deniall of what I re<g ref="char:EOLhyphen"/>lated, or what Maſter <hi>Edwards</hi> hath printed, except in the circum<g ref="char:EOLhyphen"/>ſtance, that there was a meeting concluded of, at which Maſter <hi>Burroughs</hi> was preſent; for by this enſuing relation it will appear, that what Maſter <hi>Edwards</hi> hath related for the ſubſtance of it is true alſo; for I do averre and ſay that there was ſuch a man as <hi>Nichols</hi> an Anabaptiſt in <hi>Moore-Feilds,</hi> and that the ſame <hi>Nichols</hi>
+               <pb n="5" facs="tcp:113672:3"/>did come to <hi>Stepney</hi> to Maſter <hi>Greenhills,</hi> and did hold forth unto him theſe enſuing damnable Errours.</p>
+            <list>
+               <item>1. That God was the Authour of all ſinne.</item>
+               <item>2. That Children owe no obedience unto Parents, except they be godly.</item>
+               <item>3. That all lyes come out of the mouth of God; and ſeemed to prove it out of the <hi>Kings,</hi> from the lying ſpirit, who asked leave of God to be a lying ſpirit in the mouth of the Prophets, and God ſaid, go.</item>
+               <item>4. Further, the ſame <hi>Nichols</hi> ſaid, That no man or woman went to hell for any ſinne that they commit; he being asked why any went to hell, he anſwered, it was the will of God.</item>
+            </list>
+            <p>All which particulars Maſter <hi>Greenhill</hi> did relate unto Maſter <hi>Burroughs</hi> on a Sabbath day following, after the morning Sermon at Colonel <hi>Zacharies</hi> houſe, where Maſter <hi>Burroughs</hi> uſually goeth in after his morning exerciſe. I being there preſent with ſome others, heard Maſter <hi>Greenhill</hi> relate this ſad Story, with great greif of ſpirit, and ſaid that it made his fleſh tremble to heare ſuch horrid things uttered.</p>
+            <p>Maſter <hi>Burroughs</hi> replyed, Brother, were it not a ſad caſe if ſo be your wife, and my ſervants, and children were drawn away to ſuch damnable Errours, and that we could have no other remedy for it, but ſay Lord have mercy upon us? Maſter <hi>Greenhill</hi> ſaid yes ſo it were.</p>
+            <p>M. <hi>Burroughs</hi> again ſaid, Brother, there is a neceſſity of a Govern<g ref="char:EOLhyphen"/>ment and power in the Magiſtrate, and power over Conſcience.</p>
+            <p>Then Maſter <hi>Greenhill</hi> ſaid, that whoſoever ſhould teach unto a people any thing that raceth fundamentals, or any thing that ſtriketh againſt the power of godlineſſe, or any thing that tendeth to the diſturbance of the peace of the Kingdome, ought to be ſup<g ref="char:EOLhyphen"/>preſt. Unto whom I anſwered, Sir, hold forth this in publike, and I hope all the godly ſhall well agree, ſaying it was as much as I deſired.</p>
+            <p>Maſter <hi>Burroughs</hi> further ſaid, that he in his houſe was Maſter, and that he might keep out ſuch a one out of his Family. Maſter <hi>Greenhill</hi> anſwered ſo he might.</p>
+            <p>Again Maſter <hi>Burroughs</hi> ſaid unto us, wee foure of ſix dwelling at the corner of a ſtreet together, bewailing one to the other, how
+<pb n="6" facs="tcp:113672:4"/>our ſervants and children and wives are ſeduced, agree together to keep ſuch a perſon out of our family. Maſter <hi>Greenhill</hi> ſaid, ſo they might.</p>
+            <p>Maſter <hi>Burroughs</hi> ſaid, a whole ſtreet might joyn ſo together to keep ſuch perſons out of their families. 'Twas granted ſo they might.</p>
+            <p>Again he ſaid a whole Town might joyn together, and ſo a whole County, and then a whole Kingdome might do the ſame; to which ſome ſtanders by ſeemed not to aſſent; but ſaid Maſter <hi>Burroughs,</hi> it is as lawfull in the laſt place as at the firſt.</p>
+            <p>This is the naked truth, a neer as I can remember of the diſ<g ref="char:EOLhyphen"/>courſe about theſe Errours. And I hope in all this there is no juſt cauſe given by me of offence to theſe two Worthies, Mr. <hi>Bur<g ref="char:EOLhyphen"/>roughs</hi> and Maſter <hi>Greenhill.</hi> But when I firſt ſpake it upon juſt occa<g ref="char:EOLhyphen"/>ſion, I did it to their honour, and ſo I hope the printing of it will be to ſhew their ſoundneſſe in judgement againſt ſuch Errours.</p>
+            <p>Now if Maſter <hi>John Goodwin</hi> do bundle up ſuch horrid Errours as theſe to amount to no more nor higher rate then the infirmities of the Saints, as in the beginning of his Pamphlet doth appear, for he ſaith Satan hath been this foure yeers ſifting up; the Authour might have taken in (with the ſame breath) the old Serpent him<g ref="char:EOLhyphen"/>ſelf into the Catalogue of ſuch Saints, as well as ſuch that held ſuch damnable Errours, as are teſtified in this Relation. For the Ser<g ref="char:EOLhyphen"/>pent was more moderate, and ſaid unto the woman yee ſhall not ſurely dye; and did not ſo impudently ſay as this <hi>Nichols</hi> did, who ſaid all lyes come out of the mouth of God. But it may be the man upon ſecond thoughts will ſee his miſtake, as that there is no ſuch infirmities as theſe to be found in the Saints; not in the whole Book of God.</p>
+            <p>Now for ſuch a man of Learning and parts, to vent himſelf with ſuch vain words and jeers, and to make uſe of Scripture language to ſerve his own brain and humor, is not as becomes the Goſpel of Chriſt, as will appear if the Reader well weighs his enſuing words, as followeth. <q>Wherein he ſaith, the Authour of the ſaid Treatiſe known by the mark of a <hi>Gangraena,</hi> or <hi>Cancer</hi> in the fore<g ref="char:EOLhyphen"/>head of it; being as it ſeems of Satans counſel, and partaker of his in<g ref="char:EOLhyphen"/>tentions againſt the Saints, hath diligently ſwept his floore, &amp; ga<g ref="char:EOLhyphen"/>thered together his ſiftings, all that droſſe and beggery of weak<g ref="char:EOLhyphen"/>neſſes
+<pb n="7" facs="tcp:113672:4"/>and infirmities, which Satan (meaning Maſter <hi>Edwards</hi>) within the compaſſe of four yeers by his own confeſſion, was able to ſift out of them, and he to come to the knowledg of, and hath ground, kneaded and hath bak'd it, and made ſhew-bread of it, for ſuch of the Presbyterian ſonnes of Levi, and their retinue to eat as are of his own diet and conſtitution.</q> Certainly, this language of Maſter <hi>John Goodwin,</hi> is not becoming the Miniſter of the Goſpel.</p>
+            <p>Having faithfully related the truth of ſome particulars in Ma<g ref="char:EOLhyphen"/>ſter <hi>Edwards</hi> Book, touching <hi>Nichols</hi> the Anabaptiſt; I thought good for a cloſure to ſpeak ſomething of a Toleration, which is too much by Maſter <hi>Goodwin</hi> and others, in Pulpit, and in printed Pamphlets pleaded for. I have heard ſome preſſe it from the ex<g ref="char:EOLhyphen"/>ample of Amſterdame, that it is ſo there; and I can helpe them to one place more, which is at Conſtantinople, where the Turks have places for Mahomet to be worſhipped; and they allow the Jewes their Synagouges for worſhip; And alſo the Greeks have their publike places for worſhip; ſo the French, Italians and Engliſh, have all their liberty of Conſcience. Now if the Turks follow the Hollander in this particular, or the Hollander taketh it from the Turks; In them both, it is but for mony and Trades ſake, and not for the honour of God. Which God forbid ſhould ever be ſo in England: But rather let us follow the beſt examples of the Saints out of the Word of God, where good <hi>Nehemiah</hi> would not ſuffer the Sabbath to be violated, by ſelling of wares and commo<g ref="char:EOLhyphen"/>dities. Which ſome in my hearing, and not dwelling far off from me, do plead for, and practiſe, working on their callings on the Lords day; and do this out of pretence of Conſcience. I pray was it a good law or no in <hi>Nebuchadnezar,</hi> in <hi>Daniel</hi> 3.29. where he made decree againſt any which ſpake any thing againſt the God of <hi>Shadrach, Meſhech,</hi> and <hi>Abednego,</hi> ſhould be cut in peeces. Much more it would hold good againſt any that act againſt the known lawes of God.</p>
+            <p>To come nearer the Goſpel, you may finde in that Evangelicall Prophet, <hi>Zachariah,</hi> 13.3. It is ſaid, <hi>thou ſhall not live, for thou ſpeakeſt lyes againſt the Name of the Lord.</hi> So that I do not find, that pretended Conſciences have any allowance in the Word of God; neither did the Apoſtles, and Holy men of God when they ſuffer<g ref="char:EOLhyphen"/>ed
+<pb n="8" facs="tcp:113672:5"/>uſe this Argument; <hi>You Magiſtrates, have nothing to do with our Conſciences:</hi> But pleaded the juſtneſſe of their cauſe, and innocency of their perſons. Yet not that I would have any man that is a Na<g ref="char:EOLhyphen"/>tive Engliſh one, though a Jew in opinion or a Papiſt, or any elſe, that now are, to be baniſhed, nor impriſoned, nor fined for his Conſcience and opinion: But that I would not have them to Congregate and draw others after them; but if it be their Light, as they pretend, or their Faith, let them, as the Apoſtle ſaith, <hi>have it to themſelves.</hi>
+            </p>
+            <p>And that there may be a ſtop to theſe floods of Errours, that are caſt out againſt the Church and truth: I conceive this courſe might be taken, that no man ſhould take upon him, nor be ſuffered to Officiate in a Miniſteriall way, as a Paſtor over a people; but ſuch as ſhall be approved on, and allowed by Authority; as I con<g ref="char:EOLhyphen"/>ceive it is ſo in <hi>New-England;</hi> And not a Toleration for every man, to vent his own brain and Errours. For where then will the guilt of the bloud that hath been ſhed lie? If Toleration might be ſuffer'd, the Papiſts ſure would never have gone in the feilds to have their bellies ſhot through with bullets; nor our ignorant Coun<g ref="char:EOLhyphen"/>try people in Counties and Shires, would never have riſen by thouſands, if they might have had the Service Book, and good old Prayers (as they call them) ſtill continued unto them. So I con<g ref="char:EOLhyphen"/>clude, praying for a Reformation, and not a Toleration; and reſt a well wiſher to Truth and Peace.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed>James Cranford.</signed>
+               <dateline>
+                  <date>
+                     <hi>Aprill</hi> 24. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
